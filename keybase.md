@@ -19,13 +19,13 @@ To claim this, I am signing this object:
       "username": "mobeyond"
     },
     "merkle_root": {
-      "ctime": 1611825172,
-      "hash": "0cfc2f526383e28b2b3c6b5b8f42f0c79384ebd3db8a6a66494acade652d9b9a53648182e43fb0e2f2f9a1ac5d957eb55c6800a1ddd878fd1eebc2ed3bf24de8",
-      "hash_meta": "27bb2f36ff16c3cfda2d4a6de406712043b107a9d95da6bcc5b9b6fa7d6e13c6",
-      "seqno": 18932758
+      "ctime": 1611826055,
+      "hash": "e024460b9cd0fc0ccc9ab1bcb6e9ade24f91e543fc6244152fbe39c97d023af068d89e35c28aa386c4daef25e64749d47356357b6b6604f0e60527fe99a459f0",
+      "hash_meta": "e7343649b4a7b82dc19e86d33c58d3fd76e41af50b1184269b8101c5e81e168f",
+      "seqno": 18932846
     },
     "service": {
-      "entropy": "+yXL2z1gXCFu4fMyDzfDQj3/",
+      "entropy": "iwm4cY9kHU+23DOnwiSaSZz5",
       "name": "github",
       "username": "mobeyond"
     },
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "5.1.1"
   },
-  "ctime": 1611825194,
+  "ctime": 1611826063,
   "expire_in": 504576000,
-  "prev": "4fe9ca99bd6791a8a49bd759045bf3522ef6a9a0d34ca58c2f09737cb4035c34",
-  "seqno": 28,
+  "prev": "91d40fa1ea03e7acc8ffbbd7e6d82adecc7b6da416e86e8bf2b0e61e2757e3d3",
+  "seqno": 30,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,7 @@ To claim this, I am signing this object:
 with the key [ASCqMLLqr3esgNOtJUtchthtGUkeHhbs3L6ctDR13zPdZgo](https://keybase.io/mobeyond), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqjCy6q93rIDTrSVLXIbYbRlJHh4W7Ny+nLQ0dd8z3WYKp3BheWxvYWTESpcCHMQgT+nKmb1nkaikm9dZBFvzUi72qaDTTKWMLwlzfLQDXDTEIA+b+edjDzp23yb6gj8l3xLq/0lru/nKtDs4M+cvTIONAgHCo3NpZ8RAWR5JaK/eKED3G4g39f4Ja/w01jFuL3KqWwNL5kN5Zd04uqkuwXQaAQspPAwrDCLAI7dh1FlFeo9UY8FNQ+dnA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINOF8WPZhub8POTZeEjGTHMpDgaNh2dKOyS+coHxSrfyo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqjCy6q93rIDTrSVLXIbYbRlJHh4W7Ny+nLQ0dd8z3WYKp3BheWxvYWTESpcCHsQgkdQPoeoD56zI/7vX5tgq3sx7baQW6G6L8rDmHidX49PEICSCKYAHgTE9xvTVb9U7O68WFmpFXABxyL/50bfXfiWVAgHCo3NpZ8RA9DGnJJjH8EPlyCXWN+78WPgJam/iOsnNO1kmB2S0LrfhGojQ7ggUu5Fp3Nd/PaehNUTthcckiCX5r8CyOuoBDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOxFoXdOGq0mTW9CxyjcLR1Yz9t48iO757snNT/6K9sSo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
